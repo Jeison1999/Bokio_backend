@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  business: one
+  plan: 1
+  price: 9.99
+  max_employees: 1
+  status: 1
+  started_at: 2026-03-10 17:13:23
+  expires_at: 2026-03-10 17:13:23
+
+two:
+  business: two
+  plan: 1
+  price: 9.99
+  max_employees: 1
+  status: 1
+  started_at: 2026-03-10 17:13:23
+  expires_at: 2026-03-10 17:13:23

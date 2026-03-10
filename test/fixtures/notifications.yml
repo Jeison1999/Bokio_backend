@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  ticket: one
+  notification_type: MyString
+  message: MyText
+  read: false
+  sent_at: 2026-03-10 20:20:03
+
+two:
+  user: two
+  ticket: two
+  notification_type: MyString
+  message: MyText
+  read: false
+  sent_at: 2026-03-10 20:20:03

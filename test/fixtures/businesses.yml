@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner: one
+  name: MyString
+  description: MyText
+  slug: MyString
+  address: MyString
+  phone: MyString
+  logo_url: MyString
+  opening_time: 2026-03-10 17:13:13
+  closing_time: 2026-03-10 17:13:13
+  break_start_time: 2026-03-10 17:13:13
+  break_end_time: 2026-03-10 17:13:13
+  active: false
+
+two:
+  owner: two
+  name: MyString
+  description: MyText
+  slug: MyString
+  address: MyString
+  phone: MyString
+  logo_url: MyString
+  opening_time: 2026-03-10 17:13:13
+  closing_time: 2026-03-10 17:13:13
+  break_start_time: 2026-03-10 17:13:13
+  break_end_time: 2026-03-10 17:13:13
+  active: false
